@@ -37,9 +37,10 @@
     font-size: 20px;
 }
 
-.bookpage-container{
+#bookpage-container{
     background-color:antiquewhite;
     width: 75%;
     height: 28rem;
     border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
